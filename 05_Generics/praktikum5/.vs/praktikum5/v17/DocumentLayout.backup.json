@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACER\\source\\repos\\praktikum5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F07AAD1-72D2-438E-8BBD-44AA0152D9B0}|praktikum5\\praktikum5.csproj|c:\\users\\acer\\source\\repos\\praktikum5\\praktikum5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F07AAD1-72D2-438E-8BBD-44AA0152D9B0}|praktikum5\\praktikum5.csproj|solutionrelative:praktikum5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\source\\repos\\praktikum5\\praktikum5\\Program.cs",
+              "RelativeDocumentMoniker": "praktikum5\\Program.cs",
+              "ToolTip": "C:\\Users\\ACER\\source\\repos\\praktikum5\\praktikum5\\Program.cs",
+              "RelativeToolTip": "praktikum5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T06:49:01.406Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
