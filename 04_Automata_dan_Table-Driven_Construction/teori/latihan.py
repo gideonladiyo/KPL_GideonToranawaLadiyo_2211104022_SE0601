@@ -40,7 +40,7 @@ class Casino:
         angka3 = random.randrange(1, 10)
         print(f"Angka ketiga: {angka3}")
         if angka1 == angka2 == angka3:
-            tambahan_dana = (100 * self.pilihan) * 20
+            tambahan_dana = (daftar_menu.get(str(self.pilihan))) ** 2
             user.add_balance(tambahan_dana)
             print(f"Selamat anda mendapatkan saldo sebesar ${tambahan_dana}")
         else:
@@ -132,14 +132,9 @@ def idle_menu():
                 print("Pilihan tidak valid")
         except :
             print("Pilihan tidak valid")
-
+daftar_menu = {"1": 100, "2": 1000, "3": 1000000}
 # menunggu produk
 def menunggu_menu():
-    daftar_menu = {
-        "1": 100,
-        "2": 1000,
-        "3": 1000000
-    }
     while True:
         print("\nPilih uang yang ingin anda habiskan")
         print("1. $100")

@@ -1,0 +1,14 @@
+C:\Users\ACER\source\repos\jurnal2\jurnal2\bin\Debug\net8.0\jurnal2.exe
+C:\Users\ACER\source\repos\jurnal2\jurnal2\bin\Debug\net8.0\jurnal2.deps.json
+C:\Users\ACER\source\repos\jurnal2\jurnal2\bin\Debug\net8.0\jurnal2.runtimeconfig.json
+C:\Users\ACER\source\repos\jurnal2\jurnal2\bin\Debug\net8.0\jurnal2.dll
+C:\Users\ACER\source\repos\jurnal2\jurnal2\bin\Debug\net8.0\jurnal2.pdb
+C:\Users\ACER\source\repos\jurnal2\jurnal2\obj\Debug\net8.0\jurnal2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\jurnal2\jurnal2\obj\Debug\net8.0\jurnal2.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\jurnal2\jurnal2\obj\Debug\net8.0\jurnal2.AssemblyInfo.cs
+C:\Users\ACER\source\repos\jurnal2\jurnal2\obj\Debug\net8.0\jurnal2.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\jurnal2\jurnal2\obj\Debug\net8.0\jurnal2.dll
+C:\Users\ACER\source\repos\jurnal2\jurnal2\obj\Debug\net8.0\refint\jurnal2.dll
+C:\Users\ACER\source\repos\jurnal2\jurnal2\obj\Debug\net8.0\jurnal2.pdb
+C:\Users\ACER\source\repos\jurnal2\jurnal2\obj\Debug\net8.0\jurnal2.genruntimeconfig.cache
+C:\Users\ACER\source\repos\jurnal2\jurnal2\obj\Debug\net8.0\ref\jurnal2.dll
