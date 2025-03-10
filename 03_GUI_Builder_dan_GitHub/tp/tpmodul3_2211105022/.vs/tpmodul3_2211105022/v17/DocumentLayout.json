@@ -1,0 +1,38 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\kuliah\\semester 6\\praktikum kpl\\KPL_GideonToranawaLadiyo_2211104022_SE0601\\03_GUI_Builder_dan_GitHub\\tp\\tpmodul3_2211105022\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA0DFF79-84D3-4B67-AF50-C766F596C9E6}|tpmodul3_2211105022\\tpmodul3_2211105022.csproj|d:\\kuliah\\semester 6\\praktikum kpl\\kpl_gideontoranawaladiyo_2211104022_se0601\\03_gui_builder_dan_github\\tp\\tpmodul3_2211105022\\tpmodul3_2211105022\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA0DFF79-84D3-4B67-AF50-C766F596C9E6}|tpmodul3_2211105022\\tpmodul3_2211105022.csproj|solutionrelative:tpmodul3_2211105022\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\kuliah\\semester 6\\praktikum kpl\\KPL_GideonToranawaLadiyo_2211104022_SE0601\\03_GUI_Builder_dan_GitHub\\tp\\tpmodul3_2211105022\\tpmodul3_2211105022\\Form1.cs",
+              "RelativeDocumentMoniker": "tpmodul3_2211105022\\Form1.cs",
+              "ToolTip": "D:\\kuliah\\semester 6\\praktikum kpl\\KPL_GideonToranawaLadiyo_2211104022_SE0601\\03_GUI_Builder_dan_GitHub\\tp\\tpmodul3_2211105022\\tpmodul3_2211105022\\Form1.cs",
+              "RelativeToolTip": "tpmodul3_2211105022\\Form1.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T20:31:08.587Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
